@@ -18,7 +18,8 @@ pd.set_option('display.max_columns', None)
 
 from collections import Counter
 from itertools import product
-from chemocommons import *
+##from chemocommons import *
+#######################################################저 chemocommons는 해결해야하는데 정말안됨 진짜 대 미친 라이브러리도없고 어디서 튀어나온건지 도대체 알수가 없음
 from copy import deepcopy
 from tqdm import tqdm
 

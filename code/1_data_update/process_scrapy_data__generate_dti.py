@@ -1,5 +1,5 @@
 import os
-os.chdir('/home/chujunyi/2_Program/1_code/2_drug_feature')
+os.chdir('C://Users//ADS_LAB//PycharmProjects//datamining_DTI_MLCD//code//2_drug_feature')
 
 import pandas as pd
 import numpy as np
