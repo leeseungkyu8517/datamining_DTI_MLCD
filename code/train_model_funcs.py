@@ -18,7 +18,7 @@ pd.set_option('display.max_columns', None)
 
 from collections import Counter
 from itertools import product
-#from chemocommons import *
+from chemocommons import *
 from copy import deepcopy
 from tqdm import tqdm
 

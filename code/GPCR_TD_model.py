@@ -1,5 +1,5 @@
 import sys
-sys.path.append('C:/Users/leeseungkyu/PycharmProjects/DTI-MLCD/code/3.1_multilabel')
+sys.path.append('/home/chujunyi/2_Program/1_code/3.1_multilabel')
 from train_model_funcs import *
 from skmultilearn.cluster.igraph import IGraphLabelGraphClusterer
 import igraph as ig
